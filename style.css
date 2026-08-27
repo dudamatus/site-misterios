@@ -112,7 +112,7 @@ p{
     color: inherit;
 }
 
-
+ /* Triângulo */
 
 .pagina-bermudas{
     background-color: rgb(4, 4, 31);
@@ -134,7 +134,7 @@ p{
     text-align: center;
     font-style: normal;
     text-align: justify;
-    background-color: #151515;
+    background-color:  #8341cf;
     border: 1xp solid #9b9b9b;
     border-radius: 15px;
     padding: 25px;
@@ -146,6 +146,230 @@ p{
 }
 
 .frase{
-    color: #9b9b9b;
+   color: aliceblue;
     text-align: center;
+    font-size: 20px;
+}
+
+
+.ET1 {
+    text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #8341cf;
+    border: 1xp solid #844bc5;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+    
+}
+
+
+.ET{
+    color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.WOW{
+    color:  #9127ee;
+    font-size: 40px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.ETF{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.PE{
+    text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #4c1c83;
+    border: 1xp solid #844bc5;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+}
+
+.pde{
+    color:  #9127ee;
+    font-size: 40px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    
+}
+
+.sft{ color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.tsft { color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.sft2{
+     text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #8341cf;
+    border: 1xp solid #844bc5;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+}
+
+.sete{ 
+    color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.sete2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.sete3{
+     text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #8341cf;
+    border: 1xp solid #844bc5;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+}
+
+.back{
+    color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.back2{
+     color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.back3{
+    text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #8341cf;
+    border: 1xp solid #844bc5;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+}
+
+.pira{
+    color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.pira2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pira3{
+     text-align: center;
+    font-style: normal;
+    text-align: justify;
+    background-color: #8341cf;
+    border: 1xp solid #7758c6;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 800px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 30px auto;
+    color: aliceblue;
+}
+
+.con{
+ color: #ad59f7;
+    text-align: center;
+    /* linha decorativa */
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    padding-bottom: 15px;
+    font-size: 50px;    
+    text-align: center;
+    text-shadow: 0 0 10px #9b59b6;
+}
+
+.con2{
+     color: rgb(159, 100, 214);
+    text-align: center;
+    font-size: 20px;
+}
+
+.con3{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
 }
