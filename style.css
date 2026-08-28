@@ -373,3 +373,29 @@ p{
     text-align: center;
     font-size: 20px;
 }
+
+@media (max-width: 768px) {
+      .cards{
+        grid-template-columns: 1fr;
+        gap: 20px;}
+        .card{
+            width: 90%;
+            margin: auto;
+        }
+        header{
+            padding: 30px 15px;
+        }
+        h1{
+            font-size: 32px;
+        }
+        h2{
+            font-size: 24px;
+        }
+        p{
+            font-size: 16px;
+        }
+        img{
+            max-width: 100%;
+            height: auto;
+        }
+}
